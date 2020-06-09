@@ -105,6 +105,7 @@ Debug: ./app/src/debug/google-services.json
 
 Production: ./app/src/google-services.json
 
+Changes: ./app/src/google-services.json
 
 ### Build
     ./gradlew assembleDebug
